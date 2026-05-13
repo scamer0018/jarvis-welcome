@@ -1,4 +1,4 @@
-``
+```
 pkg update -y && pkg upgrade -y
 
 pkg install nodejs git -y
@@ -12,4 +12,4 @@ npm install
 nano config.json
 
 node index.js
-``
+```
