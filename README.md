@@ -1,13 +1,15 @@
+``
 pkg update -y && pkg upgrade -y
 
 pkg install nodejs git -y
 
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/scamer0018/jarvis-welcome.git
 
-cd YOUR_REPO_NAME
+cd arvis-welcome
 
 npm install
 
 nano config.json
 
 node index.js
+``
