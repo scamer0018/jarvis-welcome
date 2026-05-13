@@ -1,0 +1,20 @@
+{
+  "name": "premium-forcejoin-bot",
+  "version": "2.0.0",
+  "description": "Premium Telegram Force Join Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "forcejoin",
+    "termux"
+  ],
+  "author": "ABHI",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
